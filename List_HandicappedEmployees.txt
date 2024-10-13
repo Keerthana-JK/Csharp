@@ -13,7 +13,8 @@ Problem Statement:
     		- Methods:
     			- AddEmployee(Employee employee)
     			- DisplayAllEmployees()
-			- DisplayHandicappedEmployees()    						- RemoveHandicappedEmployees()   
+			- DisplayHandicappedEmployees()
+			- RemoveHandicappedEmployees()   
 		- Demonstrate the functionality by:
 			- Creating several Employee objects.
     			- Adding them to an EmployeeManagement instance.
